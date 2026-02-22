@@ -1,5 +1,5 @@
 
-### 📖 Ramadan-Token Repository Overview
+### 📖 Ramadan-Token Repository Overview                 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsohag1192%2FRamadan-Token&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 - **Repository Name:** Ramadan-Token  
 - **Owner:** [sohag1192](https://github.com/sohag1192)
 - ** Website Url: https://sohag1192.github.io/Ramadan-Token/ 
